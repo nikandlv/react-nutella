@@ -72,5 +72,8 @@
       "afterAll",
       "jest"
     ]
+  },
+  "dependencies": {
+    "framer-motion": "^2.0.1"
   }
 }
