@@ -1,7 +1,7 @@
 {
-  "name": "my-module",
-  "version": "1.0.0",
-  "description": "My Component Library template",
+  "name": "react-nutella",
+  "version": "0.0.1",
+  "description": "ReactJS nutella notification manager",
   "main": "build/index.js",
   "module": "build/index.es.js",
   "jsnext:main": "build/index.es.js",
@@ -10,13 +10,13 @@
     "lint": "standard",
     "format": "prettier-standard --format",
     "test": "jest --coverage",
-    "storybook": "start-storybook"
+    "start": "start-storybook"
   },
   "keywords": [],
   "author": {
-    "name" : "Ernesto Freyre",
-    "email": "ernestofreyreg@gmail.com",
-    "url": "https://medium.com/@efreyreg"
+    "name": "Nikan Dalvand",
+    "email": "nikandalvand@gmail.com",
+    "url": "https://nikan.dev"
   },
   "license": "MIT",
   "devDependencies": {
